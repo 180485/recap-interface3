@@ -88,13 +88,13 @@ img{
 p.font{
     margin:0px;
     font-size:15px;
-    color:grey;
+    color:drak grey;
     padding-top:20px;
 }
  
 p.number{
     margin:0px;
-    font-size:12px;
+    font-size:14px;
     opacity: 0.3;
     
 }
